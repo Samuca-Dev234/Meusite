@@ -1,0 +1,29 @@
+@charset "utf-8";/*exemplo de comentario */
+
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+    background-color: chartreuse;
+    
+
+   
+}
+b {
+background-color: chartreuse;
+
+
+
+}
+p {
+ background-color: chartreuse;
+
+
+
+}
+body { 
+    background-color: #000000;
+
+
+
+
+}
